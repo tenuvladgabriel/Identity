@@ -1,0 +1,12 @@
+D:\Redimo\IdentityServer\IdentityServer.Core\bin\Debug\net50\IdentityServer.Core.deps.json
+D:\Redimo\IdentityServer\IdentityServer.Core\bin\Debug\net50\IdentityServer.Core.dll
+D:\Redimo\IdentityServer\IdentityServer.Core\bin\Debug\net50\ref\IdentityServer.Core.dll
+D:\Redimo\IdentityServer\IdentityServer.Core\bin\Debug\net50\IdentityServer.Core.pdb
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.csprojAssemblyReference.cache
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.AssemblyInfoInputs.cache
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.AssemblyInfo.cs
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.csproj.CoreCompileInputs.cache
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.dll
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\ref\IdentityServer.Core.dll
+D:\Redimo\IdentityServer\IdentityServer.Core\obj\Debug\net50\IdentityServer.Core.pdb
